@@ -13,11 +13,11 @@
     },
     "autoload": {
         "psr-0": {
-            "Zend_": ""
+            "Zend_": "library/"
         }
     },
     "include-path": [
-        "."
+        "library/"
     ],
     "config": {
         "bin-dir": "bin"
